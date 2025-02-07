@@ -3,9 +3,9 @@ The focus of this project was the design and implementation of a web application
 
 
 
-Features
+# Features
 
-Multi-role user system (Admin, Professor, Student)
+## Multi-role user system (Admin, Professor, Student)##
 Course management and enrollment
 Grade management with theory and lab components
 Student progress tracking
