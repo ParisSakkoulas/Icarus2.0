@@ -17,7 +17,7 @@ MongoDB database
 Tech Stack
 Frontend
 
-Angular 16+
+Angular 19+
 PrimeNG UI Components
 TypeScript
 RxJS
